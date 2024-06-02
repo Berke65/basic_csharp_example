@@ -1,0 +1,12 @@
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\bin\Debug\basic_csharp_example.exe.config
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\bin\Debug\basic_csharp_example.exe
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\bin\Debug\basic_csharp_example.pdb
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.Form1.resources
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.Form2.resources
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.Form3.resources
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.Properties.Resources.resources
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.csproj.GenerateResource.cache
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.exe
+C:\Users\berke\source\repos\basic_csharp_example\basic_csharp_example\obj\Debug\basic_csharp_example.pdb
